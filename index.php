@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>
+			Bor, ecset és fakanál
+		</title>
+		<link rel="stylesheet" href="styles.css" />
+		<link href='https://css.gg/dark-mode.css' rel='stylesheet'>
+
+		<!--
+		<style>
+			@import url('styles.css');
+			#text { text-align:justify; font-family:Calibri Italic; font-size:1em; }
+		</style>
+		-->
+		
+		<!-- PHP scripts -->
+		<script>
+			function myFunction() {
+				var element = document.body;
+				element.classList.toggle("dark-mode");
+			}
+		</script>
+	</head>
+
+	<body>
+		
+
+		
+		
+
+		<div id="header">
+		
+		<div class="image">
+		 <img src="Szabo_Erno.jpg" alt="Szabó Ernő" width="150">
+		</div>
+		  <div id="teszt">
+		   <p class="quotes">
+			Maczó János: Érdemes élni<br>- Szabó Ernőnek -
+			<br><br><q>Piktorok közt a legjobb szakács</q> - 
+			<br>Mondják rólad, s nem csak a barát. 
+			<br><q>Szakácsok közt a legjobb piktor</q> - 
+			<br>Mondatja nem csak a szekszárdi bor. 
+			<br>
+			<br><q>Ha egy embernek lesz szebb a világ</q> 
+			<br>- Állítod Ernő - azáltal, amit tettél, 
+			<br>Erre veled együtt mondom: Így igaz! 
+			<br>
+			<br>Általad gazdag, nélküled nagyon szegény 
+			<br>Ez a jobb sorsra érdemes emberlét! 
+		   </p>
+		  </div>
+
+		 <div id="title">
+			Bor, ecset és fakanál
+		 	<br><span id="subtitle">~ Szabó Ernő emlékére ~</span>
+		 </div>
+		 <div id="darkmode">
+		 <i class="gg-dark-mode" onclick="myFunction()"></i>
+		  <!-- <?php
+			setlocale(LC_ALL,'hungarian');
+			echo "Today is " . date("Y.m.d") . ", " . date("l") . ".";  //nap kiírása
+		  ?> 
+		 <button onclick="myFunction()">Toggle dark mode</button> -->
+		 </div>
+		 <div>
+			Versek
+			A bor
+		 </div>
+		</div>
+
+	
+
+
+
+		
+		<hr>
+
+
+		<div class="text">
+		<p>
+		<h1 align=center>
+		A bor
+		</h1>
+		<div class="FloatingBox">
+		<p>
+		<q>...
+		<br>Szunnyad a must a
+		<br>csömögén,
+		<br>s a pince tikkadt 
+		<br>melegén 
+		<br>pihennek boldog 
+		<br>óborok. 
+		<br>...</q>
+		<br>
+		<br>Babits Mihály 
+		</p>
+		</div>
+		</p>
+		<p class="indent"> 
+		A bor legelterjedtebb és legkedveltebb italaink egyike. Mint a föld, a nap, az emberi munka ajándéka, végigkiséri az emberiséget történelme során, de neki is megvan a maga sajátos története, melynek kezdete a régmúlt idökbe nyúlik vissza. A szőlő ősi kultürnövény, már a harmadkor kezdete táján ismert volt, amikor az ember megjelent a Földön. Ezt azokból a megkövesedett szőlőtőke-maradványokból tudjuk, amelyeket nemcsak a mai szőlőtermő vidékeken, hanem messze északon is találunk, pl. Grönlandon, Izlandon és Alaszkában. 
+		</p>
+		<p>
+		A szőlőművelés az emberi civilizációval egyidős. Emlékeivel már az óegyiptomi és ázsiai népek írásos hagyományaiban, ó-babiloni és asszír dokumentumokban is találkozunk. Szőlőt műveltek az ó-föniciaiak is, akik, mint az akkori világ kereskedői és gyarmatosítói, már korán hozzájárultak a szőlő elterjesztéséhez. Elő-Azsiából és a Kaukázuson túli részekről a szőlő Szíriába és Palesztinába, majd Egyiptomba és Görögországba jutott. Görög gyarmatosok vitték Franciaországba, Szicíliába. rómaiak pedig nemcsak Galliába, a mai Franciaországba, hanem a római birodalom egyéb tartományaiba is eljuttatták a szőlőt. 
+		</p>
+		<p>
+		A szőlőművelés főleg a folyók völgyében terjedt el, de elsősorban a Duna vonaláig és attól nyugatra. Ugyancsak a római birodalom idején honosodott meg a szőlő a Rhone völgyében. Pannóniában különösen Marcus Aurelius Probus császár alatt (i.sz. 278-282} volt virágzó szőtőtermelés. Az első magyarországi irásos emlékek a 997-1038 közti évekből származnak. 
+		<br>
+		A bor és a borkultúra athéni eredetű volt. Ezt minden athéni tudja. Dionysos tanította meg az attikai parasztnak, Ikariosnak a szőlőművelést Amikor Dionysos világjáró körútja során Attikába érkezett, Ikarios volt az , aki szerény hajlékába fogadta. Az isten előhúzta borral teli tömlőjét és megkínálta a vöröslő itallal a házigazdát. Ikarios hamarosan jókedvre derült a szokatlan élvezettöl, és örömmel vette. amikor az isten részletesen elmagyarázta neki a szőlőművelés fortélyait az ültetéstől a metszésen, kapáláson keresztül a szüretelésig és a borkészítésig. Dionysos ajndék gyanánt az öregnél hagyott egy szőlőindát. Ikarios szorgalmas munkaja hamarosan megtérült. Az első szüret után megízlelhette saját borát és azt olyan kiválónak találta, hogy meghívta szomszédait is egy baráti koccintásra. 
+		<br>
+		A bor már régóta a mindennapjaink társa. Elnézést azoktól, akik nem isznak bort, csak teát. palinkát, sört, kávét, vizet. Nem az eszméletvesztő vedelőknek írok, őket nem a bor érdekli, hanem a tudat kikapcsolása hasonló társak között, gyorsan, minden nap megismételve. (Nem szabad elfelejteni, hogy a bor azért alkohol!) 
+		</p>
+		<p>
+		Más dolog a bort élvezni, a színét, ízét elemezni, a baráti társaságot hiányolni. Történeteket mesélni a borokról, a közös eseményekről, tervezni a jövőt, jól látni a jelent. Közösen felfedezni egy-egy jellegzetességet, igazolványt állítani ki erről, s vállalni azt. 
+		</p>
+		<p>
+		Nem a kocsmába kell bemenni, s ledönteni azt a liter bort Nem árt tudni a szőlőfajtákról, a borvidékekről, a gazdákról, a szüretről, a járványokról, az érlelésről, palackozásról, a bor sorsáról. 
+		</p>
+		<p>
+		Szép és felüdítő ismereteket szerezhetünk, kellemes élményben lehet részünk, ha alázatosak, megértőek, érdeklődőek leszünk. 
+		</p>
+		<p>
+		A mai Magyarország területét valamikor a Pannon-tenger boritotta, amit az Alpok, a Kárpátok és a Dinári-Alpok nyúlványai zártak közre. Sok kis és már régen kialudt vulkán müködött közre a szőlőtalajok kialakításában. 
+		</p>
+		<p>
+		Közeledve hozzánk, tudnunk kell, hogy már a rómaiak meghonosították a szőlőtermesztés és a borászat alapjait. Azonban az 1241-es tatárjárás mindent elpusztított. IV. Béla (akinek lánya volt a szentéletű Margit) próbálta helyrehozni a károkat. Nagyjából sikerült is. Legalább is a következő évszázadok átélték a megpróbáltatásokat. 
+		</p>
+		<p>
+		Magyarországon kontinentális klíma uralkodik. A nyár forró és száraz, a tél nagyon hideg. A magyar szőlőterület fele lapos, sík vidéken fekszik, ahol főleg fehérborfajtákat termesztenek. A hegyek aljáról gyakran származnak kiváló vörösborok. 
+		<br />
+		A nemzetközi szőlőfajták, a Cabernet sauvignon, a Cabernet frane, a Merlot, a Pinot noir, a Sauvignon blanc, a Chardonnay, Olaszrizling. A Rajnai rizling, az Ottonel muskotály, a Szürkebarát, a Kékfrankos és mások mellett sok helyi szőlőfajtát is termesztenek. Ilyen a fehérboroknál az Ezerjó, a Furmint, a Hárslevelű, a Kéknyelű, a Leányka, a vörösboroknál pedig a Kadarka. 
+		</p>
+		<p>
+		A bor kedvelésének érdekes mozzanata a borbírálat. Ez bizonyos szempontból a fogyasztás ellentéte, az összbenyomás áll az előtérben. Csak az édesség, savasság, keserűség, illat és zamatanyagok megkülönböztetésével lehet bort valóban megismerni. Minden borbírálat alapja a kóstolás helyes technikája. A bor átfogó érzéki észleléséhez négy lépésre van szükség: a szaglásra, az ízlelésre a nyelven, az utóízlelésre a garat tájékán, és végül a szín vizsgálatára. Különleges körülmények szükségesek a borbírálathoz. Szagtalan bírálóhelyiség, a fehér papírral letakart asztal, a semleges szagú pohár, a mérsékelt szobahőmérséklet és a lehetőleg nyugodt légkör. 
+		<br /><br />Hát azért térjünk haza! 
+		</p>
+		<p class="quotes">
+		<q>Tokaj szőlővesszein
+		<br>Nektárt csepegtettél</q>
+		</p>
+		<p>
+		Helyettünk Kölcsey Ferenc írta le e nagy igazságot a Himnuszban. Bizony e szót, hogy Tokaj, nem csak Kölcsey, hanem szinte minden nagy költő, iró, államférfi, turista szívébe zárta, aki itt járt, vagy az innen származó nedűt megkóstolta. 
+		</p>
+		<p>
+		A tokaji borok kitűnése 1560 körül kezdődött, amikor megjelent a késő őszi szüretelés. Igazán naggyá az aszúbogyók tették. Az első aszúbort 1560 körül készítette Szepsi Laczkó Máté református prédikátor, I. Rákóczi György udvari papja. 
+		</p>
+		<p>
+		Az ép és aszúbogyók közös feldolgozásából készül a Tokaji száraz és édes szamorodni. Az aszú bort a kézzel szedett bogyókból készítik. Egy gönci hordóhoz (136 liter) 3-4-5-6 puttony aszúpépet adnak. 
+		</p>
+		<p>
+		Magyarország természeti szépségű tájai és leghíresebb szőlőtermő vidékei csaknem mindenütt együtt fordulnak elő. A Bodrog és a Tisza ölelkezésénél emelkedik ki a síkságból a nektárt termő tokaji Kopasz-hegy, a Mátra és a Bukk vadregényes előhegyein terülnek el az egri és a mátraaljai borvidék szőlői, a Lövérek lábához simulnak a soproni szőlők, a Vértes meredek oldalait a móri szőlők enyhítik. A Balatonban fürdő Szigliget, Badacsony, Szentgyörgyhegy hangulatát az ottani borok adják. A somlói borvidék felett a kialudt tüzhányó és a Vár őrködik. A Mecsek enyhe lankáit a szölőskertek teszik otthonossá, a villányi szőlőtőkék pedig a siklósi várnak integetnek. Az alföldi futóhomokot a szőlők teszik nemcsak termékennyé, hanem kedvessé varázsolják a tájat, üdévé a levegőt. „Áldozz a pásztornak, igyál, és élni fogsz!” Ez a felirata annak a római-kori áldozóedénynek, amely Szekszárdon került napfényre egy szarkofágból. Egy 998-ban keletkezett adománylevélben esik szó Szekszárd - a római korban Alisca - szőlőiről. 
+		</p>
+		<p>
+		A bor és a költészet jóformán egyidős: a szőlőművelésnek, a bortermelésnek és a borfogyasztásnak a története ugyanúgy az emberiség legősibb múltjába vezet vissza, akár a verseké, az irodalomé. Noé bibliai története ugyanúgy mitológikus képzeteket sző a borivás köré, mint a görögök Dionysos vagy a rómaiak Bacchus istenének mítosza mutatja. De jól ismerik a bordalokat a magyar folklórban is. 
+		</p><br />
+		<p>
+		A klasszikus görög költészet, amely az európai irodalom szülőanyjának és máig egyik ösztönző mintájának számít, a bor dícsérete éppoly általános volt, akár a szerelemé, mi több a bor és a szerelem ünneplése többnyire együtt jártak: a jófajta borok és a szenvedélyes szerelem élménye kölcsönösen hevítette egymás tüzét. Alkaiosz, Anakreon, majd az ő példájuk nyomán a latin Horatius dalai egymással versengve zengték a bor dicséretét. 
+		</p>
+		<p>
+		A bor ünneplése a keleti kultúrának is része volt. A kínai Tu Fu és Li Taj-po, perzsa Omar Khajjam és Háfiza borok méltatásába szőtték bele a maguk életbölcseletét. Az európai középkor zeneirodalmat is megihlető gyűjteménye a Carmina burana legényes hivalkodással idézte fel azokat az evilági örömöket, amelyeket a bor ígért. Erre jó példa egy Weöres Sándor forditás: „Bizony hatszáz pénz is kevés,/ mikor jól megy a vedelés, / és a borban korlát nélkül / vígan minden összebékül.” 
+		</p><br />
+		<p>
+		A magyarság a kazár birodalomból hozott, szőlőtermesztésre és borkészítésre vonatkozó török jövevényszavaink tanúsága szerint még a honfoglalás elótt a Fekete-tenger és a Kaukázus érintkezési sávjában ismerkedett meg a szőlővel és a borral. Éppen ezért csaknem biztos, hogy a Dunántúlon (Pannónia) és Erdélyben (Dacia) a magyarság és a vele érkező kabarok a szőlő és borkultúra meghonosítói. 
+		</p><br />
+		<p>
+		Hazánk földrajzi elhelyezkedése és sajátos történelme folytán öt területről beszélhetünk. Az első a Kárpát-medence ókori szőlőkultúrája, az ide érkező, itt lakó kelta, trák, római lakosságé, amely nyilván fennmaradt a népvándorlás idején is. A második réteg a magyarok azon szőlészeti és borászati ismerete,  amelyet még a Fekete-tengertől északra lévő területekről sajátítottak el az itt élő török nyelvű népességtől. Erről tanúskodnak a szőlő, bor, seprő szavaink. A harmadik rétegnek tekinthető az államalapítás után behívott nyugat-európai szerzetesek és vendégnépek szõlészeti és borászati ismeretei. A negyedik réteg a török hódoltság alatt érkezett a Kárpát-medencébe, délről a szerbek (rácok) közvetítésével. Az ötödik réteg a szőlővész utáni rekonstrukcióval jött létre. 
+		</p><br />
+		<p class="indent">
+		Néhány szót a kadarka-vörösbor kultúráról. A budai vörösbor termelés emlékét és eszközanyagát Óbudán és az egész Buda-vidéken találjuk. A 18. században lépett előtérbe a vörösbor. A 18-19. században vörösboráról híres Egerről van emlékünk, hogy török szőlőnek nevezték. A kadarkát végig megtaláljuk Esztergom, Pilis, Nógrád, Heves megye déli részén. Bél Mátyás írta, hogy a vörösbort adó szőlőt a törökök, illetve a törökök által leigázott balkáni népek hozták Magyarországra. 
+		</p>
+		<p>
+		A szőlő- és borkultúra olyan sokrétű tevékenység, hogy ennek ezernyi mozzanatához fűződik folklór. Millió fortélya van a szőlő művelésének, a jó (és a hamis) bor elkészítésének, eladásának, főként fogyasztásának. Ezeket gyakran a folklórhoz sorolhatjuk. 
+		</p>
+		<p>
+		Az újbort Márton napján (november 11-én) kell megkóstolni. „A bornak Szent Márton a bírája" - mondják. Ekkor fogyasztják a ludat, és általában lakomákat is tartanak, hogy a következő esztendőben is bőséggel legyen enni-innivaló. Az utóbbi évszázadokban ezt a katolikusok Szent Mártonhoz, protestáns területeken pedig Luther Márton alakjához kapcsolják. 
+		</p>
+		<p>
+		Egy biztos, hogy a bor a gasztronómia lelke. Hogyan lehet helyesen étkezni? Úgy, hogy az ételek kiválasztásakor és az étrend összeállitásánál figyelembe vesszük életkorunkat, életvitelünket, egészségi állapotunkat és szervezetünk biológiai energiaigényét. Mert nem azért élünk, hogy együnk, hanem azért eszünk, hogy éljünk. Ehhez pedig elengedhetetlen a bor! 
+		</p>
+		<p>
+		Az ember kalóriaszükségletének nagyobb részét (kb. 40%-át) a fehérjék, zsírok, szénhidrátok mellett alkohollal lehetne fedezni. Az alkohol azonban elsősorban nem, mint táplálék vagy energiaforrás szerepel az ember életében, sokkal inkább magas élvezeti értéke miatt fogyasztják és fogyasztották, minden tiltás és üldöztetés ellenére. Az alkohol élettani hatását tekintve, mindig vitatott ital volt. Teljesen megtiltani fogyasztását sohasem sikerült. Sőt, régi korok orvosai kis mennyiségben gyógyszerként adták betegeiknek. Gondoljunk a tokaji aszúkra vagy a szekszárdi vörösborokra. 
+		</p>
+		<p>
+		Az alkoholtartalmú italok mértékletes és kulturált fogyasztása nem káros a szervezetre, sőt az ételeket ízhatásukban kiegészítő, azokkal harmonizáló italok kiválasztása jelentős mértékben emeli a táplálkozás gasztronómiai értékét. 
+		</p>
+		<p>
+		A velem azonos szinten lévő vörösbor fogyasztóknak a tudomány bebizonyította, hogy ez kedvező a szervezet számára, mert egyik hatóanyaga, a rezveratrol megköti a sejtromboló szabad gyököket. 
+		</p>
+		<p>
+		Nem az alkohol az, ami a bor legfőbb minősítője, hanem a savak, ásványi anyagok, nyomelemek és vitaminok alkotta ízek és aromák teszik utánozhatatlanná és felejthetetlenné. 
+		</p>
+		<p>
+		A bor nem csupán ráadása az étkezésnek, hanem szervesen része annak, az egyik fele. Ha nem kínálunk ízben, illatban harmonizáló bort az ételhez, elmondható, hogy (jó esetben) csak a felét élvezhetjük az elfogyasztott fogásokban rejlő ízekből, aromákból és illatokból, míg a hozzá gyengéden simuló borral együtt fenséges ízekben fürdött volna szájunk és lelkünk is. Mert nem csupán a gyomor, a száj – összes tartozékaival együtt – és az orr vesz részt abban a tündéri aromajátékban, amit a borok és az ételek képesek az ember érzékszervei számára alkotni, hanem lelkünkben is muzsikál egy-egy felejthetetlen ebéd vagy vacsora élménye. 
+		</p>
+		<p>
+		Ajánlás - <b>ételekhez</b>
+		<br /><br />
+		Aperitif 
+		<ul>
+		<li>könnyü, száraz fehérbor, habzóbor, pezsgő,</li>
+		<li>champagne, aszú készítésű édes borok.</li>
+		</ul>
+		Halak, sültek, hideg előételek 
+		<ul>
+		<li>száraz, karakteres, ízgazdag fehérbor.</li>
+		</ul>
+		Borjú, szárnyas, tésztafélék
+		<ul>
+		<li>érleltebb, egyedi ízekkel rendelkező fehérbor, könnyű és fiatal vörösbor, száraz rozé.</li>
+		</ul>
+		Marhahús, bárány, vad, szárnyas 
+		<ul>
+		<li>jellegzetes aromájú, érlelt, magas savtartalmú (tanninos) vörösbor,</li>
+		<li>hosszabb palackérlelésű, különleges minőségű fehérbor</li>
+		</ul>
+		Édességek 
+		<ul>
+		<li>pezsgő (félszáraz, félédes)</li>
+		<li>nem túl édes fehérbor.</li>
+		</ul>
+		Sajt (a fajtától függ!) 
+		<ul>
+		<li>harmonikus, érett vörösbor,</li>
+		<li>különleges aromájú fehérbor,</li>
+		<li>aszúbor.</li>
+		</ul>
+		</p>
+		<p>
+		Az italválasztást nagyban meghatározza az ételek alapanyagából, fűszerekből, mártásokból és az alkalmazott technológiából kialakult ízvilága. Általában elfogadott, hogy a gazdagabban fűszerezett ételekhez a könnyü, elsősorban a fiatal évjáratú, üde borok illenek jobban. 
+		</p>
+		<p>
+		Külön kell megemlíteni a baurrique érlelesű borok szerepét, melyek legyenek akár fehérek, akár vörösek, kifejezetten a füstölt, vagy nem roston sült ételekkel harmonizálnak legiobban. Régi az a felfogás, mely szerint a hús színe döntően befolyásolja a hozzá választott bor fajtáját. Nevezetesen fehér húsokhoz fehér bort, vörös, illetve barna húsokhoz vörösbort illik fogyasztani. Ez azonban nem minden esetben igaz. Az étellel harmonizáló bor ajánlását az alapanyag, a fűszerezés, a mártás, a köret együttesen határozza meg. Egyedül talán a vadhúsok tartják meg sajátos jellegüket bármilyen pácolás, vagy ízgazdag mártás ellenére is. Az ezekből készült ételekhez, csakúgy, mint a jellegzetes ízvilágú bárány vagy ürühúshoz vörösbort kínálhatunk.  
+		</p>
+		<p>
+		Külön kell megemlíteni még a halételeket, melyekkel a fehérborok harmonizálnak jobban, kivéve a magyaros, őrölt paprikás, lecsós változatokat. Egyes fehér húsú halételeknek ugyanis a vörösborok tanninjai jellegzetesen fémes ízt kölcsönöznek. 
+		</p>
+		<p>
+		Ha több bort kínálunk egy ételsoron belül, a következő alaptételeket kell figyelembe vennünk: 
+		<ul>
+		<li>Mindig a szárazabb bortól haladjunk az édesebb, illetve desszertboroktól az aszú készítésű borok felé.</li>
+		<li>A könnyebb boroktól a testesebb, robusztusabb borok felé.</li>
+		<li>A fehér bortól a vörös felé.</li>
+		<li>A fiatalabb boroktól az idősebbek felé.</li>
+		<li>A neutrálisabb boroktól a bukéfajták felé.</li>
+		</ul>
+		</p>
+		<p>
+		A fogyasztáshoz ajánlott hőmérséklet 
+		<ul>
+		<li>Érett, testes vörösborok 17-20 Celsius fok,</li> <li>különleges minőségű vörösborok 16-18,</li> <li>könnyű és fiatal vörösbor 14-16,</li> <li>aszú esszencia 15,</li> <li>késői szüretelésű aszúborok 12-14,</li> <li>különleges minőségű, fehér, évjáratos borok 11-13,</li> <li>könnyű, friss, fiatal fehérbor, rozé 8-9,</li> <li>champagne, pezsgő, habzóborok 5-8 Celsius fok.</li> 
+		</ul>
+		</p>
+		<p>
+		Mihez mit igyunk? 
+		
+		A levesekhez általában nem isznak nálunk bort. A magyar konyha némelyik levese azonban olyan zsíros és eléggé nehéz is (pl. Újházy tyúkleves vagy zsíros marhahúsleves), hogy utána nagyon jólesik a könnyü, illatos, zamatos bor, amilyenek a homoki fajborok, a Tramini, a Leányka, a Hárslevelű stb. 
+
+		Előételekhez rendszerint hideg ételeket szolgálnak fel, mint pl. édesvizi halakat aszpikban, baromfipástétomot, rákot, homárt, kaszinótojást, stb. Ezekhez alacsonyabb szeszfokú, nem túl illatos, száraz, világos, zöld-fehér borok felelnek meg, amilyen pl. a Kecskeméti ezerjó, a Mecseki olaszrizling. A kaszinótojáshoz is könnyed, fiatalos, nem túl savas bor illik, mint pl. az Olaszrizling, Leányka, stb. Vesevelőhöz, rántottaszerű tojáselőételekhez száraz, tüzes bor ajánlható, amilyen a Badacsonyi olaszrizling vagy a Somlói furmint. Rákból készült és osztrigás előételekhez száraz, de nem túl savas, zamatos bor illik; különösen a Pécsi vagy a Mecseki olaszrizlinget ajánljuk. Felvágottakhoz, szendvicsekhez hamar fejlődő, kissé szénsavas, szőlő illatú, 12 tf% körüli borokat adjunk. lyen pl. a Gyöngyösvisontai vagy a Domoszlói rizling. Gomba előételekhez, pl. a hirtelen sült sampinyongombához inkább vörösbor való. A fehér borok közül általában a 12 tf% fölötti borok jobban érvényesítik a gomba ízét, zamatát, mint pl. a Pécsi cirfandli. Pirított májhoz fehér és vörös bor egyaránt illik. 
+		<br />
+		Igen kellemes hozzá a Szekszárdi kadarka vagy a Tokaji furmint, esetleg valamilyen somlói bor. 
+		</p>
+		<p>
+		Főételekhez millió változat van. Főtt halakhoz leginkább a Rajnai rizling, a Burgundi fehér és egyéb márkás borok illenek. Sült vagy rántott halhoz az illatos, könnyű fajborok valók (Pécsi cirfandli, Rizlingszilváni, Tramini) Ha meleg mártással tálalják a halat, a Móri ezerjó felel meg hozzá a legjobban. A pisztránghoz, lazachoz már nem száraz, hanem testesebb, édeskés vagy édes bort tálaljunk, amilyen a Debrői hárslevelű, a Badacsonyi szürkebarát vagy a Zöldszilváni. Ha a hal boros mártással készült, a mártáshoz használt bort kell felszolgálni italként is. Halászléhez nagyon jól megy a Szekszárdi kadarka vagy a jobb homoki siller. 
+		</p>
+		<p>
+		Pecsenyékhez, meleg sonkához és füstölt nyelvhez közepesen erős borok illenek, mint pl. a Zöldveltelini, továbbá egyes vörösborok, mint pl. a Kékfrankos. Borjúhúshoz, borjúsülthöz a legkellemesebb hatású a Balatonfüredi rizling, Rizlingszilváni. Bárány- és juhhúshoz, birkapörkölthöz inkább kis alkoholtartalmú, kevésbé tüzes, szőlőillatú bor a legjobb, amilyen a homoki sillerbor vagy ezerjó. Marhahúsokhoz általában nem túl nehéz, dombvidéki bort ajánlunk, mint pl. a Domoszlói, esetleg a siklósi olaszrizling. Viszont az angolosan sült húsokhoz jól illenek a testesebb vorös borok, mint pl. a Villányi burgundi vagy a Szekszárdi kadarka. 
+		</p>
+		<p>
+		Marhabélszínböl készült beef-steakhez legmegfelelőbb az Egri bikavér, Szekszárdi kadarka. A rostélyoshoz a legjobban illenek az üde, könnyebb homoki borok, mint pl. a Csemői rizling. A sertéshúsból készült ételek közül a malacsülthöz legmegfelelőbb a határozott karakterű Somlói furmint vagy a Badacsonyi kéknyelű. Főtt sonkához már valamivel könnyebb bort kínáljunk, amilyenek általában a rizling jellegű borok. A sertéssülthöz általában a nem túl nehéz pecsenyebor illik legjobban (Pusztamérgesi rizling, Pécsi furmint, Tokaji pecsenye stb.). 
+		</p>
+		<p>
+		A rántott sertéssülthöz az előbbinél nagyobb alkohol- és savtartalmú bor a legmegfelelőbb, mint a Badacsonyi kéknyelű vagy a Csopaki rizling. Natúrszelethez ajánlható az Egri leányka vagy az Olaszrizling. Ha a natúrszeletet citrommal tálalják, vigyázni kell, hogy a bor ne legyen édes, ilyenkor nagyon alkalmas a Pécsi vagy Mecseki olaszrizling. Fatányéroshoz nagyon jók a Villányi fehér borok vagy a Szentgyörgyhegyi rizling. A flekkenhez, rablóhúshoz nagyon jól illenek mind a vörös, mind a fehér borok, mint pl. a Villányi kadarka vagy a Móri ezerjó, esetleg a Tokaji pecsenye. A borsostokányhoz kiválóak a száraz badacsonyi vagy somlói borok. 
+		</p>
+		<p>
+		A pörköltekhez a borok széles skálája ajánlható. A borjúpörkölthöz megfelelő a Kecskeméti kadarka A marhapörkölthöz kissé testesebb, csersavasabb bor való, mint a Vilányi burgundi és a Soproni kékfrankos. A sertéspörkölthöz szép, határozott karakterű Csongrádi vagy Villányi kadarka illik, fehér borból a kissé keményebb típusú hegyvidéki bor, mint pl. a Móri ezerjó. 
+		</p>
+		<p>
+		A szárnyasokból készült ételekhez legjobbak a vörösborok. Fiatal, sült jércéhez kitünő a pezsgővel kevert vörösbor, de megfelel az üde jellegű, bársonyos benyomású vörösbor is, mint pl. a Szekszárdi kadarka. A fehér borok közül kitűnőek hozzá a fiatalos, szénsavas, szőlőillatú alföldi fajborok, a Tramini, a Cirfandli vagy a balatonmelléki borok. Paprikás csirkéhez, különösen, ha tejfeles, kissé nagyobb alkoholtartalmú, határozott karakterű vörösbort adjunk, amilyen a Villányi, a Burgundi, a Soproni kékfrankos. Kappansülthöz az Egri bikavér illik legjobban. Sült kacsához testes, száraz bor a legmegfelelőbb, mint p!. a Badacsonyi kéknyelű vagy a Tokaji furmint. A bácskai módra készített lecsós rizseshúshoz könnyed, kissé lágyabb bor ajánlható, mint pl. a Pusztamérgesi rizling. 
+		</p>
+		<p>
+		Vadhús és vadas módra készült húsok erősebb vörösborokat kivánnak, amilyen pl. az Egri bikavér, a Soproni kékfrankos, a külföldiek közül a Chianti, a Mavrud, a Beaujolaies, stb. Akik viszont a vörösbort nem kedvelik, száraz szamorodnit igyanak hozzá. A vaddisznó határozott jellegű vörösborral esik a legjobban, amilyen a Soproni kékfrankos. Az őzsülthöz elegáns, határozott karakterű, gerinces bor való, amilyen a Kunbajai vagy a Vaskuti kadarka. 
+		</p>
+		<p>
+		A fácán után kitűnő minőségű, finom vörösbor kell, mint az óburgundi vagy a száraz Medoc noir. A fogolyhoz finom, virágillatú, fiatalos, könnyed vörösbor illik, mint pl. Villányi oportó. Nyúlpörkölthöz az illatos és zamatos vörösbor a legmegfelelőbb, pl. Soproni kékfrankos. A vadkacsa után kimondottan ó- jellegű vörösbor illik. Legmegfelelőbb a Villányi burgundi, fehérből pedig a jól temperált, száraz szamorodni. 
+		</p>
+		<p>
+		A zöldségfélékhez általában olyan borokat adjunk, mint a húsokhoz. A magyarosan készített töltött káposztához legmegfelelőbb a Badacsonyi kéknyelű, a Móri ezerjó, vagy a száraz Tokaji furmint, de a bor minden körülmények között száraz legyen. 
+		</p>
+		<p>
+		A sajtokhoz is megfelelő fajtájú borokat kell felszolgáini, melyeknek összhangban kell állniuk az előzőleg fogyasztott borokkal. Finom sajtokhoz (Eidami, Gervais, Emmenthali stb.} az extrakt anyagban gazdag, kiemelkedő savtartalom nélküli fehér borok illenek. Jellegzetes, erős izű sajtokthoz (Roquefort, füstölt sajt, Romadour stb.) nehezebb, fanyar borokat adjunk. 
+		</p>
+		<p>
+		Édességekhez, felfújtakhoz, omlettekhez, puddingokhoz az édeskés borok illenek, mint pl. Balatoni rizling, Tokaji szamorodni. 
+		<br>
+		Torták, krémek és mnás cukrászsütemények természetes édességű borokat kívánnak: Tokaji aszút, csemegeborokat, félszáraz pezsgőket. 
+		</p>
+		<p>
+		Hogy hol írom ezt a tanulmányt? Hát természetesen a Szekszárdi borvidék területén. A szekszárdi dombvidék legkeletebbre eső, viszonylag szűk sávjában. Ez tulajdonképpen Szekszárd, Őcsény, Decs szőlőinek az otthona. 
+		</p>
+		<p>
+		A kistáj reprezentánsa a három település közül Szekszárd, amely az utóbbi évszázadok során a legnagyobb szőlőterütettel rendelkezik, a borvidéknek nevet ad, objektív súlyánál fogva is képes jellemezni az egész terület állapotát, fejlettségét. 
+		</p>
+		<p>
+		Az első időszak, amelyben már biztosan tudjuk, hogy a szekszárdi-dombság területén szőlőt műveltek, a rómaiak kora Ezt részben az itt előkerült kacorok, részben pedig a szekszárdi szarkofág leletegyüttese igazolják. A legfontosabb szőlőmüvelő eszköz akkoriban a vesszők levágására alkalmas kacor (szőlőmetsző kés), amely alakjával, formájával egyúttal azt is bemutatja, milyen művelési mód honosodott meg e vidéken másfél-két évezrede. 
+		</p>
+		<p>
+		Elfogadható föltételezés, hogy az első, ma ismert tudatos fajta- és szőlőjavítás borvidékünkön még a római korban mehetett végbe. Azt azonban, hogy római katona vagy kelta bennszülött dolgozott-e a szőlőkacorral, ma már nem tudjuk eldönteni. Az Alisca nevű település szőlői a mai történelmi borvidék területén voltak, hiszen a Sárközt még mocsár borította. 
+		</p>
+		<p>
+		Témánk szempontjából is jelentős művelődéstörténeti emlék az ún. szekszárdi szarkofág. A megyeháza mellett végzett ásatás egy 110 mázsás fehérmárvány koporsót és érdekes mellékleteit hozta felszínre. A szarkofág oldallapjain mitológiai jelenetek találhatók, valamint egy kettős kehelyből ágazó termő szőlő. Feltehető, hogy a megújhodás és termékenység átvitt értelmezése ez a dombormű. 
+		</p>
+		<p>
+		A szarkofág egyik melléklete az a vasa diatretának nevezett üvegedény. Ez az áldozati kehely őrzi azt a sokat emlegetett görög feliratot, amely évezredes bölcsességet hagyott ránk. „Áldozz a pásztornak, igyál s élni fogsz". 
+		</p>
+		<p>
+		A honfoglalás a fejedelmi törzs szállásbirtokává tette a borvidék területét. Az első biztosnak mondható adat az esztergomi káptalan által kiadott I. Béla alapító oklevelét tartalmazó átirat, amely fölsorolja az 1061-es adományokat. Ebben szerepel a „vinea Crin” (más olvasat szerint Csin), „vineam Bika et Fövesthelek”, vagyis három szőlő, amelynek nevét is ismerjük. 
+		</p>
+		<p>
+		A szekszárdi szőlő és bor az irodalom és művészet örök ihletője. Illyés Gyula írta: „Az ilyen tájék igazán a tenyerén viszi az embert, minden lépésnél ad szellemének vagy inyének valami édességet. Ezt hívják kultúrtájnak, ilyet teremteni, ez az ember dolga a földön, a földdel, s ilyet megőrizni. Egyaránt kell hozzá jó talaj és jó szellem.” 
+		</p>
+		<p>
+		Így született Bodnár István találó verse is: 
+		</p>
+		<p class="quotes">
+		<q>A szekszárdi bikavér 
+		<br>orvosságnál többet ér, 
+		<br>Aki issza hóttig él.</q>
+		</p>
+		<p>
+		A város szülöttének, Garay Jánosnak a Szegszárdi bordalából pár sor: 
+		</p>
+		<p class="quotes">
+		<q>Ide hát, te bazsarózsa! 
+		<br>Poharunkba, bikavér! 
+		<br>Hadd igyuk az áldomást meg, 
+		<br>Legelőbb is magadér! 
+		<br>Jó barátért másod ízben, 
+		<br>Szép leányért azután, - 
+		<br>Ki e háromért nem érez, 
+		<br>Kutyafejű, vad pogány!</q>
+		</p>
+		<p>
+		Legnagyobb költője a városnak, Babits Mihály írta: 
+		</p>
+		<p class="quotes">
+		<q>Nem vagyok többé a városban s képzeletem szabadon röpülhet: a házak eltűntek s azt rajzolok helyükbe, amit akarok. Jelenleg a szekszárdi szőlőhegyen állok, amely életem első felének központja és pihenőhelye volt. Legalábbis semmi sem bizonyítja, hogy nem ott állok. Ez a gondolat úgy süt ki, mint a nap: egyszerre fölszáll a köd. Rég nem álltam mar ezen a helyen.</q>
+		</p>
+		<p>
+		Móricz Zsigmond szekszárdi emléke így szól: 
+		</p>
+		<p class="quotes">
+		<q>Szeretem ezt a várost s bár bornemissza vagyok, csodálom a borát. A szekszárdi vörös óbor a világ legelső bora - a fixli meg a legcsuszamlósabb. Nagy dolog, ha én bort dicsérek, mert a saját szőlőmet is kivágattam.</q>
+		</p>
+		<p>
+		Illyés Gyula írta: 
+		</p>
+		<p class="quotes">
+		<q>Kék szőlők és mögöttük kék erdők és bárányfelhők húzódtak Simontornyától Szekszárdig és Szekszárdtól fel Dombóvárig, amerre csak a pusztákról föltekintettem. Tündérkékre varázsolódott távolról a puszták lapálya is. Földem nincs e tájon egy bokoraljnyi, de az író e földből él bennem, e föld hajdani látványából.</q>
+		</p>
+		<p>
+		Legyél szombathelyi, budapesti, balatonszéplaki, fonyódligeti, siófoki,de azt ne feledd, hogy szekszárdi vagy! 
+		</p>
+		<p>
+		Forrásmunkák: 
+		<ul class="italic hidden_list">
+		
+		<li>Borok és korok, Hermész kör, Budapest, 1999</li>
+		<li>Pomnen Matuska- Kardos Ernő: Italok A-tól Z-ig, MGK, Budapest, 1965</li>
+		<li>Dr. Töttős Gábor: A szekszárdi szőlő és bor, Szekszárd, 1987</li>
+		</ul>
+		</p>
+		</div>
+		
+	</body>
+
+</html>
