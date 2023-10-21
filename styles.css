@@ -1,0 +1,138 @@
+/*  # id   . class  */
+
+body {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+
+p.indent {
+    text-indent: 30px;
+}
+
+p.quotes {
+	font-family : monospace;
+	font-size: 95%;
+	margin-left: 100px;
+}
+
+h1 { font-size:200%; }
+
+#header { font-size:1em; text-align: right;
+  align-items: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  height: 250px;
+}
+
+#title { text-align:center; font-family:'Franklin Gothic Medium'; font-size:3em; }
+
+.container {
+  padding: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+ul {
+  padding-left: 70px;
+}
+
+.image {
+  float: right;
+  position: absolute;
+  right: 50px;
+}
+
+#darkmode {
+  float: left;
+  position: absolute;
+  top: 10px;
+  left: 50px;
+}
+
+#teszt {
+  float: right;
+  position: absolute;
+  text-align: center;
+  right: 220px;
+}
+
+/*
+#wrapper {
+  display: flex;
+  width: 400px;
+  border: 1px solid black;
+  overflow: hidden;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
+*/
+
+.wrapper {
+  display: flex;
+  float: right;
+  padding: 15px; 
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
+
+.text {
+  text-align : justify;
+  font-family : Serif;
+  font-size : 1.2em;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.italic { font-style: italic; }
+.hidden_list { list-style: none; }
+
+.FloatingBox {
+  float: right;
+  width: 150px;
+  border-width: 0px;
+  border-style: solid;
+  border-color: black;
+  padding: 15px;
+  margin: 10px;
+  font-weight: bold;
+  font-family : monospace;
+	font-size: 95%;
+  text-align : right;
+  }
+
+#subtitle {
+  font-size : 0.5em;
+}
+
+#HeaderQuote {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  padding: 0px;
+  margin: 0px;
+  font-weight: bold;
+  font-family : monospace;
+	font-size: 95%;
+  
+}
