@@ -116,7 +116,7 @@ include('head.html');
 		A bor nem csupán ráadása az étkezésnek, hanem szervesen része annak, az egyik fele. Ha nem kínálunk ízben, illatban harmonizáló bort az ételhez, elmondható, hogy (jó esetben) csak a felét élvezhetjük az elfogyasztott fogásokban rejlő ízekből, aromákból és illatokból, míg a hozzá gyengéden simuló borral együtt fenséges ízekben fürdött volna szájunk és lelkünk is. Mert nem csupán a gyomor, a száj – összes tartozékaival együtt – és az orr vesz részt abban a tündéri aromajátékban, amit a borok és az ételek képesek az ember érzékszervei számára alkotni, hanem lelkünkben is muzsikál egy-egy felejthetetlen ebéd vagy vacsora élménye. 
 		</p>
 		<p>
-		<h2>Ajánlás - <b>ételekhez</b></h2>
+		<h2>Ajánlás ételekhez</h2>
 		Aperitif 
 		<ul>
 		<li>könnyü, száraz fehérbor, habzóbor, pezsgő,</li>

@@ -11,7 +11,8 @@ include('head.html');
 <body>
 <?php include('header.html'); ?>
 
-	<div class="text">
+	<main class="text">
+		<h1 class="page-title">Szabó Ernő emlékoldala</h1>
 	  	<div class="FloatingBox">
 		<img src="images/szabo_erno_pastel.jpg" alt="Szabó Ernő portréja" width="200">
 		</div>
@@ -24,7 +25,7 @@ include('head.html');
 		<br>1991-ben lektorálta Szigeti Andor könyvét a Fülétől a farkáig kötetet, majd társszerző a Szigeti Bandi bácsi mellett. Önálló köteteiben mindig összekötötte a gasztronómiát, a bort és a képzőművészetet.
 		<br>Munkássága elismeréseként a Belkereskedelem Kiváló Dolgozója kitűntetést, számos Vállalati Kiváló Dolgozója címet, valamint Schnitta Sámuel-díjat kapott.
 	</p>
-  	</div>
+  	</main>
 
 </body>
 </html>
