@@ -70,6 +70,37 @@ p {
   line-height: 1.55;
 }
 
+
+.page-title {
+  width: min(calc(100% - (2 * var(--page-padding))), var(--content-width));
+  margin: clamp(24px, 4vw, 48px) auto clamp(12px, 2vw, 24px);
+  text-align: center;
+  font-family: "Brush Script MT", "Segoe Script", cursive;
+  font-size: clamp(2.2rem, 6vw, 3.8rem);
+  line-height: 1.1;
+}
+
+.text > .page-title {
+  width: 100%;
+  margin-top: 0;
+}
+
+.poem-title {
+  margin: 0 0 0.65rem;
+  font-size: clamp(1.2rem, 2.5vw, 1.55rem);
+  line-height: 1.2;
+}
+
+.book-author,
+.book-subtitle {
+  text-align: center;
+}
+
+.book-author {
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+}
+
 /* Shared layout ----------------------------------------------------------- */
 .grid-container {
   display: grid;
