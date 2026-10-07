@@ -3,7 +3,12 @@
 <html lang="hu">
 
 <head>
-<?php include('head.html'); ?>
+<?php
+$pageTitle = 'Bibliográfia – Szabó Ernő könyvei | Bor, ecset és fakanál';
+$pageDescription = 'Szabó Ernő könyvei, társszerzőként jegyzett kötetei és gasztronómiai kiadványai.';
+$canonicalUrl = 'https://www.boresecset.hu/bibliography.php';
+include('head.html');
+?>
 </head>
 
 <body>

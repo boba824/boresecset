@@ -3,7 +3,12 @@
 <html lang="hu">
 
 <head>
-<?php include('head.html'); ?>
+<?php
+$pageTitle = 'Média – Szabó Ernő és az Ínyenc Klub | Bor, ecset és fakanál';
+$pageDescription = 'Archív televíziós felvételek Szabó Ernőről, az Ínyenc Klubról és gasztronómiai rendezvényekről.';
+$canonicalUrl = 'https://www.boresecset.hu/media.php';
+include('head.html');
+?>
 </head>
 
 <body>

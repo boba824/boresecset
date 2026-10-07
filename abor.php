@@ -3,7 +3,12 @@
 <html lang="hu">
 
 <head>
-<?php include('head.html'); ?>
+<?php
+$pageTitle = 'A bor – Szabó Ernő írásai | Bor, ecset és fakanál';
+$pageDescription = 'Szabó Ernő írása a borról, a magyar borkultúráról, borvidékekről, borkóstolásról és az ételekhez illő borok választásáról.';
+$canonicalUrl = 'https://www.boresecset.hu/abor.php';
+include('head.html');
+?>
 </head>
 
 <body>

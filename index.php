@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="hu">
 <head>
-<?php include('head.html'); ?>
+<?php
+$pageTitle = 'Szabó Ernő emlékoldala | Bor, ecset és fakanál';
+$pageDescription = 'Szabó Ernő munkásságának emlékoldala – bor, gasztronómia, festészet és versek.';
+$canonicalUrl = 'https://www.boresecset.hu/';
+include('head.html');
+?>
 </head>
 <body>
 <?php include('header.html'); ?>

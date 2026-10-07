@@ -3,7 +3,12 @@
 <html lang="hu">
 
 <head>
-<?php include('head.html'); ?>
+<?php
+$pageTitle = 'Galéria – Szabó Ernő festményei | Bor, ecset és fakanál';
+$pageDescription = 'Válogatás Szabó Ernő festményeiből és képzőművészeti munkáiból.';
+$canonicalUrl = 'https://www.boresecset.hu/gallery.php';
+include('head.html');
+?>
 </head>
 
 <body>

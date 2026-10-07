@@ -3,7 +3,12 @@
 <html lang="hu">
 
 <head>
-<?php include('head.html'); ?>
+<?php
+$pageTitle = 'Majdnem vers – Szabó Ernő versei | Bor, ecset és fakanál';
+$pageDescription = 'Szabó Ernő Majdnem vers című kötetének versei és a szerző saját illusztrációi.';
+$canonicalUrl = 'https://www.boresecset.hu/majdnemvers.php';
+include('head.html');
+?>
 </head>
 
 <body>
