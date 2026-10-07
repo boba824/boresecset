@@ -18,7 +18,7 @@ include('head.html');
 		</div>
 		<p>
 		Üdvözöllek!<br>
-		<br>Ez az oldal édesapám, Szabó Ernő munkásságának állít emléket!<br>
+		<br>Ez az oldal Szabó Ernő munkásságának állít emléket!<br>
 		<br>Szabó Ernő tanító, pedagógus, gasztronómus és festő.
 		<br>Egész életében a szépet és a jót akarva, szakmáját hitte, elhivatottsággal és tisztességgel végezte. Hitvallása szerint: „örömöt szerezni másnak, önzetlenül”.
 		<br>1967-től dolgozott a vendéglátásban. A Jász-Nagykun-Szolnok Megyei Vállalat igazgatója, majd a balatonszéplaki Hotel Interpress igazgatója. Szekszárdon töltötte nyugdíjas éveit, ahol később kiteljesedett a festészetben. 1995-től a Tolna Megyei Ínyenc Klub vezetőségi tagjaként Ínyenc esteket szervezett, ízelítőt adva a nemzeti-nemzetközi gasztronómiából, bemutatva a szekszárdi borokat, borászokat, szakácsokat, képzőművészeket, végigjárva az országot az Őrségtől-Budapestig, Nagykovácsitól-Sopronig.
