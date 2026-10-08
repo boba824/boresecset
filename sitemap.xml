@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.boresecset.hu/</loc>
-  </url>
-  <url>
-    <loc>https://www.boresecset.hu/abor.php</loc>
-  </url>
-  <url>
-    <loc>https://www.boresecset.hu/majdnemvers.php</loc>
-  </url>
-  <url>
-    <loc>https://www.boresecset.hu/bibliography.php</loc>
-  </url>
-  <url>
-    <loc>https://www.boresecset.hu/gallery.php</loc>
-  </url>
-  <url>
-    <loc>https://www.boresecset.hu/media.php</loc>
-  </url>
+<url><loc>https://www.boresecset.hu/</loc></url>
+<url><loc>https://www.boresecset.hu/abor.html</loc></url>
+<url><loc>https://www.boresecset.hu/majdnemvers.html</loc></url>
+<url><loc>https://www.boresecset.hu/bibliography.html</loc></url>
+<url><loc>https://www.boresecset.hu/gallery.html</loc></url>
+<url><loc>https://www.boresecset.hu/media.html</loc></url>
 </urlset>
